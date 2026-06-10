@@ -2,6 +2,7 @@
 ### EDA · RFM Segmentation · Market Basket Analysis · Time Series
 
 ---
+Tableau Public: https://public.tableau.com/views/OnlineRetailAnalysis_17810745014140/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 🧩 The Business Problem
 
